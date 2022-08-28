@@ -1,0 +1,28 @@
+@media screen and (max-width:480px) {
+    .card{
+       height:470px;
+       width: 200px;
+       padding-left: 0px;
+    }
+    img{
+        width: 198px;
+        height: 250px;
+    }
+}
+.sky{
+    font-style: italic;
+    color: aliceblue;
+    background-color: rgb(47, 56, 56);
+    font-family: Arial, Helvetica, sans-serif;
+}
+.footer{
+    background-color: black;
+    font-size: large;
+    color: aqua;
+}
+.name{
+    font-size: 35px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: -5%;
+}
